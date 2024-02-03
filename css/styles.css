@@ -79,6 +79,7 @@ body {
   font-family: inherit;
   font-weight: 600;
   font-size: 12px;
+  line-height: 1.33;
   letter-spacing: 0.09em;
   text-transform: uppercase;
   color: var(--interact-color);
@@ -180,7 +181,10 @@ body {
   font-family: inherit;
   font-weight: 600;
   font-size: 12px;
+  line-height: 1.33;
   letter-spacing: 0.09em;
   text-transform: uppercase;
   color: var(--second-title-color);
+
+  cursor: pointer;
 }
