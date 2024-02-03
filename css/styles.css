@@ -53,9 +53,10 @@ body {
 .navigation-item {
 }
 
-.nav-link {
+.navigation-link {
   font-weight: 600;
   font-size: 12px;
+  line-height: 1.33;
   letter-spacing: 0.1em;
   color: var(--interact-color);
 }
@@ -68,6 +69,7 @@ body {
 .header-tel {
   font-weight: 600;
   font-size: 12px;
+  line-height: 1.33;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--interact-color);
@@ -101,6 +103,7 @@ body {
 .hero-link {
   font-weight: 600;
   font-size: 11px;
+  line-height: 1.36;
   letter-spacing: 0.2em;
   color: var(--second-title-color);
 }
@@ -113,6 +116,7 @@ body {
 .hero-upper-text {
   font-weight: 600;
   font-size: 11px;
+  line-height: 1.36;
   text-transform: uppercase;
   color: rgba(157, 164, 189, 0.6);
 }
@@ -120,12 +124,13 @@ body {
 .hero-title {
   font-family: 'Raleway', sans-serif;
   font-size: 72px;
+  line-height: 1.18;
   letter-spacing: 0.05em;
 }
 
 .hero-down-text {
   font-size: 18px;
-  line-height: 1.66;
+  line-height: 1.67;
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
@@ -144,6 +149,7 @@ body {
 .about-upper-text {
   font-weight: 600;
   font-size: 11px;
+  line-height: 1.36;
   text-transform: uppercase;
   color: var(--second-title-color);
 }
@@ -151,6 +157,7 @@ body {
 .about-title {
   font-family: 'Raleway', sans-serif;
   font-size: 42px;
+  line-height: 1.17;
   letter-spacing: 0.05em;
   color: var(--second-title-color);
 }
